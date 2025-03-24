@@ -1,0 +1,10 @@
+D:\VSProject\MatrixCalculator\bin\Debug\MatrixCalculator.exe.config
+D:\VSProject\MatrixCalculator\bin\Debug\MatrixCalculator.exe
+D:\VSProject\MatrixCalculator\bin\Debug\MatrixCalculator.pdb
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.AssemblyReference.cache
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.Form1.resources
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.Properties.Resources.resources
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.GenerateResource.cache
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.exe
+D:\VSProject\MatrixCalculator\obj\Debug\MatrixCalculator.pdb

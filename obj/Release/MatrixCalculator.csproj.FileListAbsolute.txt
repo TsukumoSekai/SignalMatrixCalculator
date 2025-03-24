@@ -1,0 +1,10 @@
+D:\VSProject\MatrixCalculator\obj\Release\MatrixCalculator.csproj.AssemblyReference.cache
+D:\VSProject\MatrixCalculator\obj\Release\MatrixCalculator.csproj.GenerateResource.cache
+D:\VSProject\MatrixCalculator\obj\Release\MatrixCalculator.csproj.CoreCompileInputs.cache
+D:\VSProject\MatrixCalculator\bin\Release\SignalMatrixCalculator.exe.config
+D:\VSProject\MatrixCalculator\bin\Release\SignalMatrixCalculator.exe
+D:\VSProject\MatrixCalculator\bin\Release\SignalMatrixCalculator.pdb
+D:\VSProject\MatrixCalculator\obj\Release\SignalMatrixCalculator.Form1.resources
+D:\VSProject\MatrixCalculator\obj\Release\SignalMatrixCalculator.Properties.Resources.resources
+D:\VSProject\MatrixCalculator\obj\Release\SignalMatrixCalculator.exe
+D:\VSProject\MatrixCalculator\obj\Release\SignalMatrixCalculator.pdb
